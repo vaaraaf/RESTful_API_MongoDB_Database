@@ -2,7 +2,10 @@
 This program is based on RESTful API. The core of this program has three main parts:</br></br>
 1- Server (based on Flask Python)</br>
 2- MongoDB Database</br>
-3- Client</br></br>
+3- Client</br>
+**NOTE:** Client must have a separated virtual environment</br>
+
+
 **Operation:**</br>
 Step1: The client sends RESTful API request to the server.</br>
 Step2: Based on the request, server processes the request applies the changes to to MongoDB database.</br>
