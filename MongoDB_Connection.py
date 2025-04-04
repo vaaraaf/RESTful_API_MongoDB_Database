@@ -85,5 +85,5 @@ def drop_collection():
 
 if __name__ == '__main__':
     # drop_collection()
-    # insert_one_doc({'name': 'VooVoo'})
+    # insert_one_doc({'name': 'Sample5'})
     pass
