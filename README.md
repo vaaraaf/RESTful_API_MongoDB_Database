@@ -7,7 +7,7 @@ This program is based on RESTful API. The core of this program has three main pa
 Step1: The client sends RESTful API request to the server.</br>
 Step2: Based on the request, server processes the request applies the changes to to MongoDB database.</br>
 Step3: The operation is processed and the results are sent to the client.</br></br>
-![Flux_Dev_A_futuristic_hightech_illustration_showcasing_a_RESTf_0](https://github.com/user-attachments/assets/9cb2ee3f-7ec5-407c-a859-5fed6476b2ba)
+![Flux_Dev_A_futuristic_hightech_illustration_showcasing_a_RESTf_0](https://github.com/user-attachments/assets/391d0af5-1a24-4c8a-b2bf-bc2be5d27b34)
 
 **Availabe Functionalities:**</br>
 1- **insert_one_item** => This function is used to add one document to the database</br>
